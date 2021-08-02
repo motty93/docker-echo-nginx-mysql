@@ -2,7 +2,7 @@
 ## environment
 * docker version 19.03.6
 * docker-compose version 1.25.4
-* go version 1.14.6
+* go version 1.6
 * mysql version 5.7
 * nginx latest
 
